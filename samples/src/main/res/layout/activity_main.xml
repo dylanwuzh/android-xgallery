@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.xgallery.android.XGallery
+        android:id="@+id/xgallery"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:background="#e0e0e0"
+        app:xGallery_itemHeight="100dp"
+        app:xGallery_itemWidth="80dp" />
+
+</LinearLayout>
