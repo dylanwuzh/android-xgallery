@@ -58,4 +58,4 @@ limitations under the License.
 
 [1]: ./assets/1.gif
 [2]: ./samples
-[3]: ./assets/XGallery_Demo_v1.0.0.apk
+[3]: ./assets/XGallery_Demo_v1_0_0.apk
